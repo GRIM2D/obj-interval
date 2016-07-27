@@ -19,3 +19,5 @@ function ObjInterval (func, delay) {
 ObjInterval.prototype.destroy = function () {
 	clearInterval(this.intervalID);
 };
+
+module.exports = ObjInterval;
