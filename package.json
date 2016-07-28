@@ -1,6 +1,6 @@
 {
   "name": "obj-interval",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Object wrapper for setInterval()",
   "keywords": [
     "object",
